@@ -70,6 +70,6 @@ function App() {
 }
 
 export default App;
-<a href="/myphoto.jpg" download>
+<a href="/photo.jpg" download>
   <button>Download Photo</button>
 </a>
