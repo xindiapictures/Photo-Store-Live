@@ -45,7 +45,7 @@ function App() {
           cursor: "pointer",
         }}
       >
-        Pay ₹500
+        Pay ₹5
       </button>
 
       {paymentDone && (
@@ -70,3 +70,6 @@ function App() {
 }
 
 export default App;
+<a href="/myphoto.jpg" download>
+  <button>Download Photo</button>
+</a>
