@@ -6,7 +6,7 @@ function App() {
   const handlePayment = async () => {
     const options = {
       key: "rzp_test_SuUQnEe92BjnyD",
-      amount: 500, // amount in paise = ₹50
+      amount: 500, // amount in paise = ₹500
       currency: "INR",
       name: "Photo Store",
       description: "Purchase Photo",
